@@ -10,7 +10,7 @@ func main() {
 	l2 := []string{"eert", "dsfdsf", "sdf"}
 	fmt.Println(max_len_def(l1, l2))
 }
-dfgfd
+
 func max_len_def(a1 []string, a2 []string) int {
 	if (len(a1) == 0 && len(a2) == 0) || (len(a1) == 0 || len(a2) == 0) {
 		return -1
