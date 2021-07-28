@@ -1,2 +1,2 @@
-# code-wars-golang
-Solving code wars challenges with golang
+# Code Wars
+Solutions for code wars kata
